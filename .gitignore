@@ -1,0 +1,21 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# R
+.Rhistory
+.RData
+
+# Logs / temp
+*.log
+*.out
+
+# OS
+.DS_Store
+
+
+
+
