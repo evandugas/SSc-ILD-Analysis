@@ -1,0 +1,13 @@
+# Runtime dependencies (also needed by tests)
+numpy
+pandas
+statsmodels
+pycombat
+matplotlib
+seaborn
+gseapy
+openpyxl
+
+# Test dependencies
+pytest>=7.0
+pytest-cov>=4.0
